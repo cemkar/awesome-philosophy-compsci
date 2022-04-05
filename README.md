@@ -811,7 +811,7 @@ This is a presentation by Lisa Spirohttps://digitalscholarship.wordpress.com)
 
 <a id="orgc96c627"></a>
 
-## [Philosophical Wordnets](https://github.com/mboudour/WordNets/tree/master/Philosophical%2520WordNets)
+## [Philosophical Wordnets](https://github.com/mboudour/WordNets)
 
 Contributed by [Moses Boudorides](https://github.com/mboudour), a series of Jupyter notebooks showing sentence-co-occurring relationships among concepts. Works analyzed include Heidegger's "The Question Concerning Technology" and Nietzsche's "Thus Spake Zarathustra".
 
